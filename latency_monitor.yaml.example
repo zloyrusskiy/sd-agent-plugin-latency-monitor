@@ -1,0 +1,9 @@
+init_config:
+
+instances:
+  - name: selectel-moscow
+    ip: 95.213.255.1
+    is_adaptive: true
+  - name: godaddy
+    ip: 208.109.192.70
+    is_adaptive: true
